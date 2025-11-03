@@ -1,0 +1,5 @@
+{
+  "name": "Smartlead Health Monitor",
+  "description": "An application to monitor and track the health of your Smartlead email accounts across all tags, identifying issues and generating reports.",
+  "requestFramePermissions": []
+}
